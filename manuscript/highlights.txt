@@ -1,0 +1,5 @@
+The rat genome has eight annotated Schlafen genes, seven in a chromosome 10 cluster
+Rat Slfn9 matches mouse Slfn8/9; rat and mouse Slfn3 and Slfn4 are co-orthologues
+Schlafen promoters are enriched for interferon-stimulated response elements
+Higher Schlafen expression in aged rat organs partly tracks leukocyte marker levels
+Slfn4 is higher in inflamed colitis mucosa but not after LPS-induced lung injury
