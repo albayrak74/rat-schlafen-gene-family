@@ -1,0 +1,8 @@
+Accession,Strain,Tissue,Comparison,Samples used,Data type,Original study
+GSE53960,Fischer 344,11 organs,"2, 6, 21 and 104 weeks of age; both sexes","320 (4 per sex, organ and age)",Read counts,Yu et al. (2014)
+GSE149517,Wistar,Colon,TNBS colitis: inflamed vs uninflamed (paired) and vs control,"6 inflamed, 6 uninflamed (paired), 2 control",Read counts,Boros et al. (2020)
+GSE228906,Wistar,Lung,Intratracheal LPS vs control,5 vs 5,FPKM,–
+GSE261056,Wistar (male),Liver,Adjuvant-induced arthritis vs control,4 vs 4,Read counts,–
+GSE298271,Wistar Han (male),Microglia (CD11b/c+),Neonatal IL-1β exposure vs PBS,18 vs 18,Read counts,Bokobza et al. (2026)
+GSE192425,Wistar,Liver,"Diet-induced obese (saline and sham groups, batch 1) vs lean",10 vs 6,Read counts,Metzner et al. (2022a)
+GSE160153,Wistar,Liver,650 vs 110 days of age; male vs female,6 per age and sex,Normalized values,Lomas-Soria et al. (2021)
