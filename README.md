@@ -1,4 +1,4 @@
-# The rat Schlafen gene family: genomic organization, phylogeny and expression across organs, aging and disease models
+# Comparative genomic and cross-dataset transcriptomic analysis of the rat Schlafen gene family in aging and inflammation
 
 Analysis code, derived results and figures for the manuscript by İrem Alkan and Mehmet Albayrak (submitted to *Gene*).
 
