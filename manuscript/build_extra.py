@@ -7,7 +7,7 @@ def base():
     s=d.sections[0]; s.page_height=Cm(29.7); s.page_width=Cm(21)
     for m in ['left_margin','right_margin','top_margin','bottom_margin']: setattr(s,m,Cm(2.2))
     return d
-TITLE='The rat Schlafen gene family: genomic organization, phylogeny and expression across organs, aging and disease models'
+TITLE='Comparative genomic and cross-dataset transcriptomic analysis of the rat Schlafen gene family in aging and inflammation'
 P='../draft/Genetik_Makale_7_Gene_'
 d=base(); d.add_paragraph().add_run('Highlights').bold=True
 for l in open('highlights.txt').read().strip().split('\n'): d.add_paragraph(l,style='List Bullet')

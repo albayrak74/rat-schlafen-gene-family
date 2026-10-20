@@ -2,7 +2,7 @@ import pandas as pd, numpy as np, json, gzip, re, sys
 from docx import Document
 from docx.shared import Pt, Cm
 from docx.oxml.ns import qn
-TITLE='The rat Schlafen gene family: genomic organization, phylogeny and expression across organs, aging and disease models'
+TITLE='Comparative genomic and cross-dataset transcriptomic analysis of the rat Schlafen gene family in aging and inflammation'
 o='../out/'
 def base():
     d=Document(); st=d.styles['Normal']; st.font.name='Times New Roman'; st.element.rPr.rFonts.set(qn('w:eastAsia'),'Times New Roman'); st.font.size=Pt(11)
