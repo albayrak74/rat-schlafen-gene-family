@@ -1,0 +1,166 @@
+pfam,product,n_proteins,max_score
+B3R,NP_001013992.1 schlafen family member 13,1,39.4
+B3R,NP_001100501.1 schlafen family member 12-like,1,166.0
+B3R,NP_001406934.1 schlafen family member 1,1,58.5
+B3R,NP_001417054.1 schlafen family member 14,1,83.2
+B3R,NP_001417117.1 schlafen family member 5,1,55.0
+B3R,NP_001417118.1 schlafen family member 5,1,55.6
+B3R,NP_001417139.1 schlafen family member 4,1,81.3
+B3R,NP_001417186.1 schlafen 4,1,82.0
+B3R,NP_001427070.1 schlafen family member 13,1,39.4
+B3R,NP_001427071.1 schlafen family member 13,1,39.4
+B3R,NP_001427072.1 schlafen family member 13,1,39.4
+B3R,NP_001427073.1 schlafen family member 13,1,39.4
+B3R,NP_001427074.1 schlafen family member 13,1,39.4
+B3R,NP_001427075.1 schlafen family member 13,1,39.4
+B3R,NP_001427076.1 schlafen family member 13,1,39.4
+B3R,NP_001427077.1 schlafen family member 13,1,39.5
+B3R,NP_001427078.1 schlafen family member 13,1,39.5
+B3R,NP_001427079.1 schlafen family member 13,1,39.5
+B3R,NP_446139.1 schlafen family member 4,1,81.3
+B3R,XP_006247060.1 schlafen family member 13,1,39.4
+B3R,XP_006247069.1 protein SLFN14,1,57.9
+B3R,XP_038941967.1 schlafen family member 12-like,1,166.2
+B3R,XP_087488911.1 schlafen family member 13,1,39.4
+B3R,XP_087488912.1 schlafen family member 13,1,39.4
+B3R,XP_087488913.1 schlafen family member 13,1,39.4
+B3R,XP_087488914.1 schlafen family member 13,1,39.4
+B3R,XP_087488915.1 schlafen family member 13,1,39.4
+B3R,XP_087488916.1 schlafen family member 13,1,39.4
+B3R,XP_087488917.1 schlafen family member 13,1,39.4
+B3R,XP_087488918.1 schlafen family member 13,1,39.4
+B3R,XP_087488919.1 schlafen family member 13,1,39.4
+B3R,XP_087488920.1 schlafen family member 13,1,39.5
+B3R,XP_087488921.1 schlafen family member 13,1,39.5
+B3R,XP_087488922.1 schlafen family member 13,1,39.5
+B3R,XP_087488923.1 schlafen family member 13,1,39.5
+B3R,XP_087488924.1 schlafen family member 13,1,39.5
+B3R,XP_087488925.1 schlafen family member 13,1,39.5
+B3R,XP_087488926.1 schlafen family member 13,1,39.5
+B3R,XP_087490017.1 schlafen 4,1,82.0
+B3R,XP_087490019.1 schlafen 4,1,82.0
+B3R,XP_087490020.1 schlafen 4,1,82.0
+SLFN-g3_helicase,NP_001013992.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,NP_001417117.1 schlafen family member 5,1,27.4
+SLFN-g3_helicase,NP_001427070.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,NP_001427071.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,NP_001427072.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,NP_001427073.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,NP_001427074.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,NP_001427075.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,NP_001427076.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,NP_001427077.1 schlafen family member 13,1,38.7
+SLFN-g3_helicase,NP_001427078.1 schlafen family member 13,1,38.7
+SLFN-g3_helicase,NP_001427079.1 schlafen family member 13,1,38.7
+SLFN-g3_helicase,XP_006247060.1 schlafen family member 13,1,38.5
+SLFN-g3_helicase,XP_087488911.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488912.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488913.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488914.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488915.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488916.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488917.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488918.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488919.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488920.1 schlafen family member 13,1,38.6
+SLFN-g3_helicase,XP_087488921.1 schlafen family member 13,1,38.7
+SLFN-g3_helicase,XP_087488922.1 schlafen family member 13,1,38.7
+SLFN-g3_helicase,XP_087488923.1 schlafen family member 13,1,38.7
+SLFN-g3_helicase,XP_087488924.1 schlafen family member 13,1,38.7
+SLFN-g3_helicase,XP_087488925.1 schlafen family member 13,1,38.7
+SLFN-g3_helicase,XP_087488926.1 schlafen family member 13,1,38.7
+SLFN_AlbA_2,NP_001013992.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,NP_001019518.1 schlafen-like protein 1,1,70.5
+SLFN_AlbA_2,NP_001100501.1 schlafen family member 12-like,1,48.9
+SLFN_AlbA_2,NP_001406934.1 schlafen family member 1,1,48.5
+SLFN_AlbA_2,NP_001417054.1 schlafen family member 14,1,71.5
+SLFN_AlbA_2,NP_001417117.1 schlafen family member 5,1,52.2
+SLFN_AlbA_2,NP_001417118.1 schlafen family member 5,1,55.0
+SLFN_AlbA_2,NP_001417139.1 schlafen family member 4,1,38.0
+SLFN_AlbA_2,NP_001417186.1 schlafen 4,1,38.6
+SLFN_AlbA_2,NP_001427070.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,NP_001427071.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,NP_001427072.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,NP_001427073.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,NP_001427074.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,NP_001427075.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,NP_001427076.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,NP_001427077.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,NP_001427078.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,NP_001427079.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,NP_446139.1 schlafen family member 4,1,38.0
+SLFN_AlbA_2,XP_006247060.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_038941967.1 schlafen family member 12-like,1,49.3
+SLFN_AlbA_2,XP_063144325.1 schlafen-like protein 1,1,70.5
+SLFN_AlbA_2,XP_087474930.1 schlafen-like protein 1,1,58.5
+SLFN_AlbA_2,XP_087474931.1 schlafen-like protein 1,1,58.5
+SLFN_AlbA_2,XP_087488911.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488912.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488913.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488914.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488915.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488916.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488917.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488918.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488919.1 schlafen family member 13,1,71.0
+SLFN_AlbA_2,XP_087488920.1 schlafen family member 13,1,71.1
+SLFN_AlbA_2,XP_087488921.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,XP_087488922.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,XP_087488923.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,XP_087488924.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,XP_087488925.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,XP_087488926.1 schlafen family member 13,1,69.6
+SLFN_AlbA_2,XP_087490017.1 schlafen 4,1,38.6
+SLFN_AlbA_2,XP_087490019.1 schlafen 4,1,38.6
+SLFN_AlbA_2,XP_087490020.1 schlafen 4,1,38.6
+SLFN_GTPase-like,NP_001013992.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,NP_001417054.1 schlafen family member 14,1,159.9
+SLFN_GTPase-like,NP_001417117.1 schlafen family member 5,1,169.5
+SLFN_GTPase-like,NP_001417139.1 schlafen family member 4,1,135.7
+SLFN_GTPase-like,NP_001417186.1 schlafen 4,1,125.2
+SLFN_GTPase-like,NP_001427070.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,NP_001427071.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,NP_001427072.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,NP_001427073.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,NP_001427074.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,NP_001427075.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,NP_001427076.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,NP_001427077.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,NP_001427078.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,NP_001427079.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,NP_446139.1 schlafen family member 4,1,135.7
+SLFN_GTPase-like,XP_006247060.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_006247069.1 protein SLFN14,1,160.4
+SLFN_GTPase-like,XP_038943284.1 protein SLFN14,1,159.6
+SLFN_GTPase-like,XP_087488911.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488912.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488913.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488914.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488915.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488916.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488917.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488918.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488919.1 schlafen family member 13,1,202.0
+SLFN_GTPase-like,XP_087488920.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,XP_087488921.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,XP_087488922.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,XP_087488923.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,XP_087488924.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,XP_087488925.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,XP_087488926.1 schlafen family member 13,1,202.1
+SLFN_GTPase-like,XP_087490017.1 schlafen 4,1,125.2
+SLFN_GTPase-like,XP_087490019.1 schlafen 4,1,125.2
+SLFN_GTPase-like,XP_087490020.1 schlafen 4,1,125.2
+UvrD_C_2,NP_001099589.1 F-box DNA helicase 1,1,39.7
+UvrD_C_2,XP_006241490.1 DNA helicase B,1,27.8
+UvrD_C_2,XP_087499608.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499609.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499610.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499611.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499612.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499613.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499614.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499615.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499616.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499617.1 F-box DNA helicase 1,1,39.9
+UvrD_C_2,XP_087499618.1 F-box DNA helicase 1,1,39.9

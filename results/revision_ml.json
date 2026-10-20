@@ -1,0 +1,27 @@
+{
+ "age_tx_withinorgan_var": 0.983125,
+ "age_noTestis_SLFN": 0.6797091412742382,
+ "age_noTestis_null_median": 0.5315096952908587,
+ "age_noTestis_P": 0.06965174129353234,
+ "age_null_k": 15,
+ "ptprc_age_diff": {
+  "Adr": 0.99,
+  "Brn": 0.4,
+  "Hrt": 0.18,
+  "Kdn": 1.35,
+  "Lng": 0.76,
+  "Lvr": 0.9,
+  "Msc": 0.4,
+  "Spl": -0.37,
+  "Thm": -0.73,
+  "Tst": 3.34,
+  "Utr": -0.77
+ },
+ "infl_tx_withinds_var": 0.5922077922077922,
+ "infl_tx_per": {
+  "GSE149517 colon (TNBS)": 0.729,
+  "GSE228906 lung (LPS)": 0.28,
+  "GSE261056 liver (arthritis)": 1.0,
+  "GSE298271 microglia (IL-1\u03b2)": 0.537
+ }
+}

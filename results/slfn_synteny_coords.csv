@@ -1,0 +1,17 @@
+species,gene,chr,start,end,strand,biotype
+homo_sapiens,SLFN5,17,35243043,35273655,1,protein_coding
+homo_sapiens,SLFN11,17,35350305,35373701,-1,protein_coding
+homo_sapiens,SLFN12,17,35409339,35433475,-1,protein_coding
+homo_sapiens,SLFN12L,17,35464249,35537770,-1,protein_coding
+homo_sapiens,SLFN13,17,35435096,35449766,-1,protein_coding
+homo_sapiens,SLFN14,17,35543985,35560819,-1,protein_coding
+homo_sapiens,SLFNL1,1,41015589,41024551,-1,protein_coding
+mus_musculus,Slfn1,11,83007615,83013496,1,protein_coding
+mus_musculus,Slfn2,11,82955609,82961504,1,protein_coding
+mus_musculus,Slfn3,11,83082123,83109101,1,protein_coding
+mus_musculus,Slfn4,11,83066012,83081042,1,protein_coding
+mus_musculus,Slfn5,11,82842100,82855666,1,protein_coding
+mus_musculus,Slfn8,11,82892984,82911669,-1,protein_coding
+mus_musculus,Slfn9,11,82868552,82882656,-1,protein_coding
+mus_musculus,Slfn14,11,83165936,83177552,-1,protein_coding
+mus_musculus,Slfnl1,4,120389418,120393863,1,protein_coding

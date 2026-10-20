@@ -1,0 +1,19 @@
+type,gene1,gene2,Ka,Ks,Ka_Ks
+orthologue,Rno_Slfn1,Mmu_Slfn1,0.1291,0.2877,0.449
+orthologue,Rno_Slfn2,Mmu_Slfn2,0.0883,0.2386,0.37
+orthologue,Rno_Slfn3,Mmu_Slfn3,0.1888,0.3172,0.595
+orthologue,Rno_Slfn4,Mmu_Slfn4,0.1622,0.2531,0.641
+orthologue,Rno_Slfn5,Mmu_Slfn5,0.1061,0.2625,0.404
+orthologue,Rno_Slfn9,Mmu_Slfn9,0.1235,0.2323,0.531
+orthologue,Rno_Slfn9,Mmu_Slfn8,0.1297,0.2809,0.462
+orthologue,Rno_Slfn14,Mmu_Slfn14,0.0502,0.2522,0.199
+orthologue,Rno_Slfnl1,Mmu_Slfnl1,0.0297,0.1868,0.159
+paralogue,Rno_Slfn3,Rno_Slfn4,0.0721,0.1355,0.532
+paralogue,Rno_Slfn1,Rno_Slfn2,0.3374,0.7141,0.473
+paralogue,Rno_Slfn5,Rno_Slfn9,0.505,1.8599,0.272
+paralogue,Rno_Slfn9,Rno_Slfn14,0.5238,2.2132,0.237
+paralogue,Rno_Slfn5,Rno_Slfn14,0.5465,-1.0,
+mouse paralogue,Mmu_Slfn3,Mmu_Slfn4,0.0924,0.15,0.616
+mouse paralogue,Mmu_Slfn8,Mmu_Slfn9,0.0709,0.0988,0.718
+cross pair,Rno_Slfn3,Mmu_Slfn4,0.14,0.2557,0.547
+cross pair,Rno_Slfn4,Mmu_Slfn3,0.173,0.2536,0.682
